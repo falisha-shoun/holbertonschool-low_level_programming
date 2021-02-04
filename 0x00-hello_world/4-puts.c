@@ -1,4 +1,7 @@
 #include <stdio.h>
+/**
+ * Print message with puts command.
+ */
 
 int main(void)
 {
